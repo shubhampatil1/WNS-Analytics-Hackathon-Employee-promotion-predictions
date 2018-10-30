@@ -14,4 +14,7 @@
 ## Variables Dictionary
 ![github-small](https://cdn-images-1.medium.com/max/800/1*cxduYBeoeHtImys93IoEHA.png)
 
-<p>I filled missing values in education with Bachelor's and previous_year_rating with a 5. All other features have no missing values and outliers, this dataset was comfortable to work with.
+<p>I filled missing values in education with Bachelor's and previous_year_rating with a 5. All other features have no missing values and outliers, this dataset was comfortable to work with. I have imputed dummy variables to predict the output with more precision & to remove insignificant factoros which does not have any effect on promotion.</p>
+
+## Conclusion
+<p> Many factors affect the promotion of an employee, model predictions have reached an accuracy of 92% for likelyhood of being promoted.</P> 
