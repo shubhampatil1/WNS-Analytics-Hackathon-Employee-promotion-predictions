@@ -10,3 +10,8 @@
 ![github-small](https://cdn-images-1.medium.com/max/1200/1*ccKOnSmXmV4r7u3J5mruig.jpeg)
 
 <p> The whole process takes a lot of time. One way to speed it up, so a company would save time and money, is to determine the right candidate at the checkpoint. We will use a data-driven approach to predict if the candidate would be promoted or not. Our prediction will be based on employee’s performance from nomination for promotion to the checkpoint and number of demographic features.</p>
+
+## Variables Dictionary
+![github-small](https://cdn-images-1.medium.com/max/800/1*cxduYBeoeHtImys93IoEHA.png)
+
+<p>I filled missing values in education with Bachelor's and previous_year_rating with a 5. All other features have no missing values and outliers, this dataset was comfortable to work with.
